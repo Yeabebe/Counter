@@ -48,6 +48,7 @@ npm start
 Open in browser: http://localhost:3000
 
 📂 Project Structure
+```
 pgsql
 Copy
 Edit
@@ -58,6 +59,7 @@ react-counter-app/
 │   └── index.js
 ├── package.json
 └── README.md
+```
 ✨ Customization
 You can customize the styling or add new features like:
 
